@@ -42,6 +42,6 @@
 
 - Node.js 14.16.0
 - Express 4.17.1
-- Express-Handlebars 5.3.3
+- Express-Handlebars 5.3.4
 - MongoDB
-- mongoose 6.0.5
+- mongoose 6.0.7
